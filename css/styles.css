@@ -100,6 +100,11 @@ hr {
   float: right;
 }
 
+.margy-img {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
 .contact-message {
   width: 34%;
   margin: 40px auto 60px;
